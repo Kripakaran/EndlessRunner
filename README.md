@@ -4,7 +4,7 @@ v0.1
 
 Endless runner game.
 
-Author: Ted Mader
+Author: Kripakaran .P
 
 Genre: 3D Action
 
